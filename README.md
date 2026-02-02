@@ -15,10 +15,11 @@ Currently building my QA portfolio with test cases, bug reports and API tests.
 - API testing (Postman)
 
 ## Tools
-- Jira
-- Postman
-- GitHub
-- Chrome DevTools
+- [Jira](https://www.atlassian.com/software/jira)
+- [Postman](https://www.postman.com/)
+- [GitHub](https://github.com/ancV1)
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
 
 ## Portfolio
 👉 My QA Portfolio: (link will be added soon)
