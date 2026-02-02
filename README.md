@@ -1,4 +1,4 @@
-# Hi, I'm Viacheslav 👋
+# Hi, I'm Viacheslav Sybirkin👋
 
 Junior QA Engineer from Ukraine 🇺🇦
 
