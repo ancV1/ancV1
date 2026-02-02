@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Viacheslav 👋
 
-<!--
-**ancV1/ancV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Engineer from Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+## About me
+I am learning manual testing and building my QA portfolio.
+Interested in web applications testing and API testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Manual testing
+- Test case design
+- Bug reporting
+- Boundary value analysis
+- Equivalence partitioning
+- API testing (Postman)
+
+## Tools
+- Jira
+- Postman
+- GitHub
+- Chrome DevTools
+
+## Portfolio
+👉 My QA Portfolio: (link will be added soon)
+
+## Contact
+You can reach me via GitHub messages.
