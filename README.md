@@ -3,8 +3,8 @@
 Junior QA Engineer from Ukraine 🇺🇦
 
 ## About me
-I am learning manual testing and building my QA portfolio.
-Interested in web applications testing and API testing.
+I am a Junior QA Engineer focused on manual testing of web applications.
+Currently building my QA portfolio with test cases, bug reports and API tests.
 
 ## Skills
 - Manual testing
